@@ -1,11 +1,9 @@
-﻿# Python
+# Python
 __pycache__/
 *.py[cod]
 *$py.class
 venv/
 .pytest_cache/
-*.db
-.env
 
 # Node / Frontend
 node_modules/
