@@ -2,5 +2,5 @@ projectKey=SC-Student-System
 serverUrl=http://localhost:9090
 serverVersion=26.9.0.129388
 dashboardUrl=http://localhost:9090/dashboard?id=SC-Student-System
-ceTaskId=db8f0fc2-e1eb-478c-8a04-f4dceff228dc
-ceTaskUrl=http://localhost:9090/api/ce/task?id=db8f0fc2-e1eb-478c-8a04-f4dceff228dc
+ceTaskId=15d105b0-38cc-47b5-ac6b-5173828767a9
+ceTaskUrl=http://localhost:9090/api/ce/task?id=15d105b0-38cc-47b5-ac6b-5173828767a9
